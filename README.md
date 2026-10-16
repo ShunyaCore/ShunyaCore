@@ -9,51 +9,14 @@
 
 ---
 
-# 🔱 ShunyaCore (Yatharth Ladkat)
-
-> **The power of Zero. The discipline of Code. The vision of Conquest.**
-
-I engineer **high-performance systems and AI-native products** that bridge the gap between complex logic and human impact. From hyperlocal infrastructure to global AI platforms, I build for scale.
+# 🔱 Yatharth Ladkat
+(aka **SHUNYACORE**)
 
 ---
 
 ## ⚡ Currently Architecting
 
-- 🧠 **AI Learning Platform** → A cognitive ecosystem designed to personalize student mastery through adaptive RAG pipelines.
-
-- 🌐 **Hyperlocal Ecosystem** → Digitizing the last mile. A platform engineered to integrate rural economies into the global digital grid.
-
-- 🤖 **Shunya OS / Assistant** → My personal neural-bridge for workflow automation and intelligent task orchestration.
-
----
-
-## 🚀 Featured Intelligence
-
-- 🔥 **Project Shunya** The core AI engine driving personalized learning experiences.
-  `Next.js` `FastAPI` `LangChain`
-
-- ⚡ **Vartaman Grid** Scalable hyperlocal architecture for real-time community resource management.
-  `React` `Node.js` `PostgreSQL`
-
-- 🧠 **Project Prajna** Advanced backend logic for predictive analytics and automated decision making.
-  `Python` `TensorFlow` `Docker`
-
----
-
-## 🧩 Tech Stack
-
-| Domain | Tools |
-| :--- | :--- |
-| **Frontend** | `Next.js` • `React` • `TailwindCSS` • `Framer Motion` |
-| **Backend** | `FastAPI` • `Node.js` • `Django` • `Go` |
-| **AI / Data** | `PyTorch` • `LangChain` • `OpenAI API` • `HuggingFace` |
-| **Cloud / DevOps** | `AWS` • `Docker` • `Vercel` • `Git` |
-
----
-
-## ⚔️ Philosophy
-
-**Create** like Brahma • **Sustain** with Vishnu • **Destroy** limits with Shiva
+- 🧠 **El-Nino Preemption System** 
 
 ---
 
@@ -72,9 +35,8 @@ I engineer **high-performance systems and AI-native products** that bridge the g
 ## 🌐 Connect with the Core
 
 <p align="center">
-  <a href="https://linkedin.com/in/shunyacore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/shunyacore"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
-  <a href="mailto:yatharth@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yatharthladkat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yatharthladkat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
