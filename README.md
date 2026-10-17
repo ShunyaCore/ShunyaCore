@@ -50,9 +50,9 @@ An early-stage project exploring how predictive AI could support drought prepare
 ### 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatharthladkat&show_icons=true&theme=radical&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shunyacore&show_icons=true&theme=radical&rank_icon=github" alt="GitHub statistics" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthladkat&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shunyacore&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
 ### 🌐 Connect with the Core
@@ -75,6 +75,6 @@ An early-stage project exploring how predictive AI could support drought prepare
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yatharthladkat&style=flat-square&color=ff4500" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShunyaCore&style=flat-square&color=ff4500" alt="Profile views" />
 </p>
 
